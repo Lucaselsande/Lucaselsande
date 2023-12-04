@@ -22,8 +22,3 @@ Apasionado del backend y la creación de sistemas eficientes. Buscando aprender 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Lucaselsande&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaselsande&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
